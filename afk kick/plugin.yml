@@ -1,0 +1,5 @@
+name: AFKKick
+author: TR8697
+version: 1.0.0
+api: 4.0.0
+main: TR8697\AFKKick\AFKKick
